@@ -1,0 +1,112 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the fcitx5-bamboo package.
+#
+# Translators:
+# Daniel Nylander <po@danielnylander.se>, 2026
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: fcitx5-bamboo\n"
+"Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
+"POT-Creation-Date: 2026-09-04 20:25+0000\n"
+"PO-Revision-Date: 2022-06-04 06:04+0000\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2026\n"
+"Language-Team: Swedish (https://app.transifex.com/fcitx/teams/12005/sv/)\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/bambooconfig.h:76
+msgid "Key"
+msgstr "Tangent"
+
+#: src/bambooconfig.h:77
+msgid "Value"
+msgstr "Värde"
+
+#: src/bambooconfig.h:84 src/bamboo.cpp:320
+msgid "Macro"
+msgstr "Makro"
+
+#: src/bambooconfig.h:95 src/bambooconfig.h:130
+msgid "Custom Keymap"
+msgstr "Egen tangentmappning"
+
+#: src/bambooconfig.h:108
+msgid "Restore Key Stroke"
+msgstr "Återställ tangenttryckning"
+
+#: src/bambooconfig.h:113 src/bamboo.cpp:252
+msgid "Input Method"
+msgstr "Inmatningsmetod"
+
+#: src/bambooconfig.h:116
+msgid "Output Charset"
+msgstr "Teckenkodning för utdata"
+
+#: src/bambooconfig.h:117
+msgid "Enable spell check"
+msgstr "Aktivera stavningskontroll"
+
+#: src/bambooconfig.h:118
+msgid "Enable Macro"
+msgstr "Aktivera makro"
+
+#: src/bambooconfig.h:119
+msgid "Capitalize Macro"
+msgstr "Använd versal i makro"
+
+#: src/bambooconfig.h:122
+msgid "Auto restore keys with invalid words"
+msgstr "Återställ automatiskt tangenter vid ogiltiga ord"
+
+#: src/bambooconfig.h:125
+msgid "Use oà, _uý (instead of òa, úy)"
+msgstr "Använd oà, _uý (i stället för òa, úy)"
+
+#: src/bambooconfig.h:127
+msgid "Allow type with more freedom"
+msgstr "Tillåt friare inmatning"
+
+#: src/bambooconfig.h:129
+msgid "Underline the preedit text"
+msgstr "Stryk under förredigeringstexten"
+
+#: src/bamboo.cpp:279
+msgid "Output charset"
+msgstr "Teckenkodning för utdata"
+
+#: src/bamboo.cpp:308
+msgid "Spell check"
+msgstr "Stavningskontroll"
+
+#: src/bamboo.cpp:473
+msgid "Spell Check Enabled"
+msgstr "Stavningskontroll aktiverad"
+
+#: src/bamboo.cpp:474
+msgid "Spell Check Disabled"
+msgstr "Stavningskontroll inaktiverad"
+
+#: src/bamboo.cpp:482
+msgid "Macro Enabled"
+msgstr "Makro aktiverat"
+
+#: src/bamboo.cpp:483
+msgid "Macro Disabled"
+msgstr "Makro inaktiverat"
+
+#: org.fcitx.Fcitx5.Addon.Bamboo.metainfo.xml.in:7 src/bamboo.conf.in:2
+msgid "Bamboo"
+msgstr "Bamboo"
+
+#: org.fcitx.Fcitx5.Addon.Bamboo.metainfo.xml.in:8
+msgid "Vietnamese input method"
+msgstr "Vietnamesisk inmatningsmetod"
+
+#: src/bamboo-addon.conf.in.in:2
+msgid "Bamboo Wrapper For Fcitx"
+msgstr "Bamboo-omslag för Fcitx"
